@@ -25,7 +25,7 @@ const dev = {
         status: "watching F1",
         teaLevel: "High",
         bugs: "any (on my watch)",
-        message: "hello boss",
+        message: "hi everyone",
         status: "still not rich",
     },
 
