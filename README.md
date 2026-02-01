@@ -2,7 +2,7 @@
   
 # Hi there 👋 I'm Jakub
 
-<p>Just a man from Warsaw • Learning AI • Looking for a project</p>
+<p>doing my job rn</p>
 
 <br/>
 
